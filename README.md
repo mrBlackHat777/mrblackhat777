@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ChartsBot](https://chartsbot.com/)
 
-- 🌱 I’m currently learning **Sckit-learn**
+- 🌱 I’m currently learning **XGBOOST**
 
 - 📫 How to reach me **mohamed.ilias.1@ens.etsmtl.ca**
 
